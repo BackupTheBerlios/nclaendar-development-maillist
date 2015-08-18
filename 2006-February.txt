@@ -1,0 +1,17 @@
+From ben.vighy at gmail.com  Thu Feb  2 15:36:05 2006
+From: ben.vighy at gmail.com (Genio del Male)
+Date: Thu, 02 Feb 2006 15:36:05 +0100
+Subject: [Nclaendar-dev] Prova and... info!
+Message-ID: <43E218D5.3040206@gmail.com>
+
+ok this is meant to be a Try... but.. let's make it useful
+
+on the next release of nClaendar (0.1.6) won't be granted back wards 
+compatibility with "profiles.index" of previous versions.... i'll 
+release a change version tool soon.....
+
+check it out! :-D
+
+byyeeee!!!
+
+
